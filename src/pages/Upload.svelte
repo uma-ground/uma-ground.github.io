@@ -30,7 +30,7 @@
       <div class="card-header">Instructions</div>
       <ul class="list-group list-group-flush list-group-numbered">
         <li class="list-group-item align-items-center p-3">
-          Download the the veteran list dumper
+          Download the the Veteran List dumper
           <div class="mt-2">
             <div class="btn-group" role="group" aria-label="Links">
               <a
